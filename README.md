@@ -1,2 +1,5 @@
-# frontend-app
-My first application on github
+# hello world
+
+My first repository on Github
+
+I love :coffee: :beach_umbrella:, :beer:.
